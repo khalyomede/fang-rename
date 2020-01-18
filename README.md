@@ -2,6 +2,8 @@
 
 Rename your input files, change their extension, add suffixes, ... using rename.
 
+[![npm](https://img.shields.io/npm/v/@fang/rename)](https://npmjs.com/package/@fang/rename) [![NPM](https://img.shields.io/npm/l/@fang/rename)](https://github.com/khalyomede/fang-rename/blob/master/LICENSE) [![npm peer dependency version](https://img.shields.io/npm/dependency-version/@fang/rename/peer/@fang/core)](https://npmjs.com/package/@fang/core) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/@fang/rename) ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/@fang/rename)
+
 ## Summary
 
 - [About](#about)
